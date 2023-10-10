@@ -59,6 +59,7 @@
     <Compile Include="Assets\Scripts\InputManager.cs" />
     <Compile Include="Assets\Input\PlayerInput.cs" />
     <Compile Include="Assets\Scripts\PlayerMotor.cs" />
+    <Compile Include="Assets\Scripts\PlayerLook.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
